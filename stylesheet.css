@@ -242,8 +242,9 @@
     font-size: 45px;
     color: #131313;
     margin-top: 230px;
-    margin-left: 240px;
+    margin-left: 900px;
     margin-bottom: 24px;
+  
 }
 .facts-des{
     width: 542px;
@@ -251,7 +252,7 @@
     font-weight: 400;
     font-size: 16px;
     color: #727272;
-    margin-left: 240px;
+    margin-left: 780px;
 }
 .facts-details{
     margin-left: 230px;
